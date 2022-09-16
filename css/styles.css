@@ -192,7 +192,8 @@ body {
 
   cursor: pointer;
 }
-.button-filter:focus {
+.button-filter:focus,
+.button-filter:hover {
   background: #2196f3;
   /* shadow-middle */
 
